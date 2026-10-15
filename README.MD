@@ -2,7 +2,7 @@
 
 **Edge-AI Based Distributed Fleet Coordination for Autonomous Mobile Robots (AMRs) in Smart Warehouses**
 
-**Smart India Hackathon 2025**
+**Smart India Hackathon 2026**
 
 | | |
 | --- | --- |
