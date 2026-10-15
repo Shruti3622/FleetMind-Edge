@@ -186,7 +186,7 @@ npm run preview
 
 ## Team
 
-**Team Loose Screws** · Smart India Hackathon 2025 · Team ID 179256
+**Team Loose Screws** · Smart India Hackathon 2026 · Team ID 179256
 
 | Name | Role | Stream |
 | --- | --- | --- |
@@ -199,6 +199,3 @@ npm run preview
 
 Second-year undergraduates, NSUT.
 
-## License
-
-<!-- Add your license here (e.g., MIT) -->
